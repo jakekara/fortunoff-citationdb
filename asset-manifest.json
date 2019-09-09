@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/fortunoff-citationdb/static/css/main.2b1458a8.chunk.css",
-    "main.js": "/fortunoff-citationdb/static/js/main.be6099c3.chunk.js",
-    "main.js.map": "/fortunoff-citationdb/static/js/main.be6099c3.chunk.js.map",
+    "main.css": "/fortunoff-citationdb/static/css/main.e2aeefdb.chunk.css",
+    "main.js": "/fortunoff-citationdb/static/js/main.b13ff6ab.chunk.js",
+    "main.js.map": "/fortunoff-citationdb/static/js/main.b13ff6ab.chunk.js.map",
     "runtime~main.js": "/fortunoff-citationdb/static/js/runtime~main.54ce4746.js",
     "runtime~main.js.map": "/fortunoff-citationdb/static/js/runtime~main.54ce4746.js.map",
-    "static/js/2.3c11e7b1.chunk.js": "/fortunoff-citationdb/static/js/2.3c11e7b1.chunk.js",
-    "static/js/2.3c11e7b1.chunk.js.map": "/fortunoff-citationdb/static/js/2.3c11e7b1.chunk.js.map",
+    "static/js/2.8ebdfbb8.chunk.js": "/fortunoff-citationdb/static/js/2.8ebdfbb8.chunk.js",
+    "static/js/2.8ebdfbb8.chunk.js.map": "/fortunoff-citationdb/static/js/2.8ebdfbb8.chunk.js.map",
     "index.html": "/fortunoff-citationdb/index.html",
-    "precache-manifest.273b0c7427ceeecc8ec741ea9bf08f9f.js": "/fortunoff-citationdb/precache-manifest.273b0c7427ceeecc8ec741ea9bf08f9f.js",
+    "precache-manifest.7dfafad17e62ea169742d31920411c2d.js": "/fortunoff-citationdb/precache-manifest.7dfafad17e62ea169742d31920411c2d.js",
     "service-worker.js": "/fortunoff-citationdb/service-worker.js",
-    "static/css/main.2b1458a8.chunk.css.map": "/fortunoff-citationdb/static/css/main.2b1458a8.chunk.css.map"
+    "static/css/main.e2aeefdb.chunk.css.map": "/fortunoff-citationdb/static/css/main.e2aeefdb.chunk.css.map"
   }
 }
