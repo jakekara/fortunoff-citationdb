@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "868312b6f24fa0838d7bf9ffce4ebdc6",
+    "revision": "d3e15539e72dc73b25353ef07354aa49",
     "url": "/fortunoff-citationdb/index.html"
   },
   {
-    "revision": "69db5c8e1716c2c3618f",
+    "revision": "db56f7001c2248276252",
     "url": "/fortunoff-citationdb/static/css/2.67b38d6f.chunk.css"
   },
   {
-    "revision": "5ca0a2fd7801384d3cdf",
-    "url": "/fortunoff-citationdb/static/css/main.e7104225.chunk.css"
+    "revision": "bd59a5e03fcd134ff368",
+    "url": "/fortunoff-citationdb/static/css/main.29da8660.chunk.css"
   },
   {
-    "revision": "69db5c8e1716c2c3618f",
-    "url": "/fortunoff-citationdb/static/js/2.cc5a225b.chunk.js"
+    "revision": "db56f7001c2248276252",
+    "url": "/fortunoff-citationdb/static/js/2.ef3b222f.chunk.js"
   },
   {
-    "revision": "5ca0a2fd7801384d3cdf",
-    "url": "/fortunoff-citationdb/static/js/main.5b41458e.chunk.js"
+    "revision": "bd59a5e03fcd134ff368",
+    "url": "/fortunoff-citationdb/static/js/main.9da4d420.chunk.js"
   },
   {
     "revision": "0c9a0596cdb6ed6320e0",
