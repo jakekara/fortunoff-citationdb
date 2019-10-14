@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/fortunoff-citationdb/static/css/main.07f75529.chunk.css",
+    "main.css": "/fortunoff-citationdb/static/css/main.d4f8a2ad.chunk.css",
     "main.js": "/fortunoff-citationdb/static/js/main.4a7a4ca7.chunk.js",
     "main.js.map": "/fortunoff-citationdb/static/js/main.4a7a4ca7.chunk.js.map",
     "runtime~main.js": "/fortunoff-citationdb/static/js/runtime~main.54ce4746.js",
@@ -9,10 +9,10 @@
     "static/js/2.271b9d79.chunk.js": "/fortunoff-citationdb/static/js/2.271b9d79.chunk.js",
     "static/js/2.271b9d79.chunk.js.map": "/fortunoff-citationdb/static/js/2.271b9d79.chunk.js.map",
     "index.html": "/fortunoff-citationdb/index.html",
-    "precache-manifest.6f9ba41fa6044224039fb3eceaa922c2.js": "/fortunoff-citationdb/precache-manifest.6f9ba41fa6044224039fb3eceaa922c2.js",
+    "precache-manifest.5b9be9f94c49aaa5625714e29beecd94.js": "/fortunoff-citationdb/precache-manifest.5b9be9f94c49aaa5625714e29beecd94.js",
     "service-worker.js": "/fortunoff-citationdb/service-worker.js",
     "static/css/2.67b38d6f.chunk.css.map": "/fortunoff-citationdb/static/css/2.67b38d6f.chunk.css.map",
-    "static/css/main.07f75529.chunk.css.map": "/fortunoff-citationdb/static/css/main.07f75529.chunk.css.map",
+    "static/css/main.d4f8a2ad.chunk.css.map": "/fortunoff-citationdb/static/css/main.d4f8a2ad.chunk.css.map",
     "static/media/main.scss": "/fortunoff-citationdb/static/media/yalenew-roman-webfont.f2b260ad.woff2"
   }
 }
