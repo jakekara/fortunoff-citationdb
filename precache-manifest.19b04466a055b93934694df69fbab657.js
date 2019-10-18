@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8efa0c2b1874b23924e7991e4f6a7eee",
+    "revision": "da046314549471f1defa97f24303f3fa",
     "url": "/fortunoff-citationdb/index.html"
   },
   {
