@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "da046314549471f1defa97f24303f3fa",
+    "revision": "7e450d3643ca5d95c2ae149201849edc",
     "url": "/fortunoff-citationdb/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fortunoff-citationdb/static/css/2.67b38d6f.chunk.css"
   },
   {
-    "revision": "ac22b3220f81ed4f4c82",
+    "revision": "76a90f10e7b796db2912",
     "url": "/fortunoff-citationdb/static/css/main.669dbf5d.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fortunoff-citationdb/static/js/2.c8cce4cc.chunk.js"
   },
   {
-    "revision": "ac22b3220f81ed4f4c82",
-    "url": "/fortunoff-citationdb/static/js/main.88071825.chunk.js"
+    "revision": "76a90f10e7b796db2912",
+    "url": "/fortunoff-citationdb/static/js/main.bf62faa1.chunk.js"
   },
   {
     "revision": "0c9a0596cdb6ed6320e0",
